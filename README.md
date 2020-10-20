@@ -1,2 +1,2 @@
-# task_several_infterface_languages
+# task_several_interface_languages
 Репозиторий под задание "Запуск автотестов для разных языков интерфейса"
